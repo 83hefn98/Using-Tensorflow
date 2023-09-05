@@ -1,3 +1,3 @@
 # Using-Tensorflow
 
-### Collection of best examples saved from me practicing using Tensorflow 🗺️ 
+### Collection of notebook examples saved from me practicing using Tensorflow 🗺️ 
